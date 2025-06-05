@@ -16,6 +16,12 @@
   <li>🎨 <strong>HTML / CSS</strong> – адаптивность, стилизация</li>
 </ul>
 
+<h2>📚 Сейчас изучаю</h2>
+<ul>
+  <li><strong>Node.js</strong></li>
+  <li><strong>Docker</strong></li>
+</ul>
+
 <h2>💡 Чем могу быть полезен?</h2>
 <ul>
   <li>Разработка и оптимизация <strong>SPA</strong> на <strong>React</strong></li>
