@@ -18,7 +18,7 @@
 
 <h2>📚 Сейчас изучаю</h2>
 <ul>
-  <li><strong>Node.js</strong></li>
+  <li><strong>Express</strong></li>
   <li><strong>Docker</strong></li>
 </ul>
 
